@@ -1,7 +1,7 @@
 #Creado por: Abraham Meza
 #Fecha de creación: 21/07/18
-#Ãšltima modificación: 22/07/18
-#VersiÃ³n 3.7.0
+#Última modificación: 22/07/18
+#Versión 3.7.0
 import requests
 
 url = "http://free.currencyconverterapi.com/api/v5/convert?q=USD_CRC&compact=y"
